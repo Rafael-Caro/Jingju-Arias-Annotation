@@ -1,2 +1,2 @@
 # Jingju-Arias-Annotation
-Praat scripts for annotation of jingju arias
+Simple praat scripts for annotation of jingju arias.
